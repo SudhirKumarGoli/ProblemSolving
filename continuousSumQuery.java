@@ -1,4 +1,4 @@
-public class Sudhir {
+public class sudhir {
       
       public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
