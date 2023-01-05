@@ -14,7 +14,7 @@ public class Sudhir {
       }
       
     public static int[] solve(int A, int[][] B) {
-      int[] ans = new int [B.length];
+      int[] ans = new int [A];
       for(int i=0;i<B.length; i++){
             int l=B[i][0]-1;
             int r=B[i][1]-1;
