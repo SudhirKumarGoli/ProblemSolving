@@ -9,12 +9,12 @@ public class prod {
         System.out.println(colorful(a));
     }
     public static int colorful(int A) {
-        // Convert the number to a string
+        // Convert the number to a string.
         String str = String.valueOf(A);
         // Initialize a set to store the products
         Map<Integer, Integer> products = new HashMap<>();
 
-        // Iterate through the string
+        // iterate through the string
         for (int i = 0; i < str.length(); i++) {
             // Get all the contiguous subsequences that contain the current character
             for (int j = i; j < str.length(); j++) {
