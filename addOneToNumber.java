@@ -2,7 +2,6 @@ public class Solution {
     
     public static void main(String[] args) {
           ArrayList<Integer> A = new ArrayList<>();
-             //{0,9,9} or {1,2,3}
                 A.add(0);
                 A.add(9);
                 A.add(9);
