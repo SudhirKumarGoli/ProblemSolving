@@ -5,8 +5,8 @@ public class Sudhir {
 
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        System.out.println(colorful(a));
+        int A = sc.nextInt();
+        System.out.println(colorful(A));
     }
     public static int colorful(int A) {
         // Convert the number to a string.
