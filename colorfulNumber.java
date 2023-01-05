@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class prod {
+public class Sudhir {
 
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
