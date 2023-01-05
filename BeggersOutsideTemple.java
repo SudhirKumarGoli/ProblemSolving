@@ -26,7 +26,7 @@ public class Sudhir {
       }
           
       for(int i=1;i<ans.length;i++){
-          ans[i]=ans[i-1]+ans[i]
+          ans[i]=ans[i-1]+ans[i];
       }
 
             return ans;
